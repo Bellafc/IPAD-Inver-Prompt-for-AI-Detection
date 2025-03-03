@@ -13,5 +13,4 @@ We provide several fine-tuned models for AI-generated text detection. You can do
 ## Training and Inference Framework  
 Our models are trained and evaluated using [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).  
 
----  
-For more details, please refer to our [ACL submission](https://www.arxiv.org/abs/2502.15902).  
+
