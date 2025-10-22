@@ -1,7 +1,5 @@
 # IPAD: Inverse Prompt for AI Detection  
 [![Hugging Face](https://img.shields.io/badge/🤗%20View%20on%20Hugging%20Face-yellow.svg?logo=huggingface&logoColor=white)](https://huggingface.co/bellafc/IPAD)
----
-
 ## 📘 Overview
 
 Large Language Models (LLMs) have achieved human-level fluency in text generation, making it increasingly difficult to distinguish between human- and AI-authored content.  
