@@ -1,7 +1,5 @@
 # IPAD: Inverse Prompt for AI Detection  
-
-[(https://img.shields.io/badge/🤗%20View%20on%20Hugging%20Face-yellow.svg?logo=huggingface&logoColor=white)](https://huggingface.co/bellafc/IPAD)
-
+[![Hugging Face](https://img.shields.io/badge/🤗%20View%20on%20Hugging%20Face-yellow.svg?logo=huggingface&logoColor=white)](https://huggingface.co/bellafc/IPAD)
 ---
 
 ## 📘 Overview
